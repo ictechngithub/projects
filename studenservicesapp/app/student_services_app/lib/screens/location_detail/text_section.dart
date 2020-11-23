@@ -12,7 +12,7 @@ class TextSection extends StatelessWidget {
       decoration: BoxDecoration(
         color: _color,
       ),
-      child: Text('colors'),
+      child: Text('aqui el color'),
     );
   }
 }
